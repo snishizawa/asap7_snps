@@ -1,0 +1,34 @@
+*********************************************************************
+* Version 01.00.00  DATE 2015-03-31                                 *
+*                                                                   *
+* (Layout DB layer name)   (GRD layer name)                         *
+*********************************************************************
+conducting_layers
+M1      M1
+M2      M2
+M3      M3
+M4      M4
+M5      M5
+M6      M6
+M7      M7
+M8      M8
+M9      M9
+Pad     Pad
+
+
+via_layers
+C0      C0
+V1      V1
+V2      V2
+V3      V3
+V4      V4
+V5      V5
+V6      V6
+V7      V7
+V8      V8
+V9      V9
+
+marker_layers
+
+remove_layers
+
